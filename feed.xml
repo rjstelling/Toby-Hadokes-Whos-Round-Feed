@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
 <title>Toby Hadoke's Who's Round</title>
-<link>https://www.bigfinish.com/podcasts/range/toby-hadoke-s-who-s-round/<link>
+<link>https://www.bigfinish.com/podcasts/range/toby-hadoke-s-who-s-round/</link>
 <language>en-us</language>
 <itunes:author>Toby Hadoke</itunes:author>
 <itunes:summary>In honour of the 50th anniversary of Doctor Who in 2013, Toby Hadoke has embarked on an epic quest.</itunes:summary>
@@ -13,7 +13,8 @@
 </itunes:owner>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://www.bigfinish.com/img/range/hadoke-button_logo_medium.png" />
-<itunes:category text="SciFi"/></itunes:category>
+<itunes:categorytext="Comedy">
+</itunes:category>
 <item>
 <title>Doctor Who: Toby Hadoke&#039;s Who&#039;s Round 9 (February #10)</title>
 <itunes:summary>In the latest chapter of his Doctor Who 50th anniversary quest to interview someone connected with every single Doctor Who story, Toby Hadoke drops in on a man who met the Daleks and still came back to the series for more!</itunes:summary>
